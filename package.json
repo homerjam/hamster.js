@@ -1,6 +1,6 @@
 {
   "name": "hamsterjs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A standalone javascript library for cross-browser mouse wheel support.",
   "keywords": [
     "hamster",
@@ -10,7 +10,7 @@
     "wheel"
   ],
   "homepage": "http://monospaced.github.io/hamster.js/",
-  "main": "elastic",
+  "main": "hamster.js",
   "bugs": "http://github.com/monospaced/hamster.js/issues",
   "license" : "MIT",
   "repository" : {
